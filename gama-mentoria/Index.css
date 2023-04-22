@@ -1,0 +1,41 @@
+img{
+    width: 50px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    color:  #292828;;
+}
+table {
+    border-collapse: collapse;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0px 5px 8px 5px #6b6a6a;
+    
+  }
+th{
+    border: 1px solid black;
+    margin: 0;
+    background-color: rgb(240, 122, 101);
+}
+td{
+    border: 1px solid black;
+    margin: 0;
+   
+    
+}
+body{
+   background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container{
+    margin-top: 10%;
+}
+
+tr:hover{
+    background-color: rgb(172, 248, 223);
+    cursor: pointer;
+}
